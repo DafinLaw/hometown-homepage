@@ -27,7 +27,7 @@ img {
 }
 
 #hero {
-    background-image: url("/Pascani-aerial-view.webp");
+    background-image: url("./Pascani-aerial-view.webp");
     background-size: cover;
     height: 250px;
     display:flex;
