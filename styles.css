@@ -7,6 +7,12 @@ LIGHT BLUE: #457B9D
 DARK BLUE: #1D3557
 
 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
 
 body {
     margin: 0;
@@ -16,6 +22,17 @@ body {
     text-shadow: 0 0 1px black;
 }
 
+.container {
+    max-width: 595px;
+    max-height: 842px;
+    margin: 40px auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    border-radius: 12px;
+    box-shadow: 0 0 40px black;
+}
+    
 img {
     width: 100px;
 } 
