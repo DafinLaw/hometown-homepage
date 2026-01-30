@@ -4,6 +4,6 @@ The project consists of 3 sections targeting 3 main areas. The first is the hero
 The second is the activities section and it displays 3 activities usually done by the inhabitants. The last section displays the guide in this
 town.
 Here is a live demo link: 
-```
+
 https://dafinlaw.github.io/hometown-homepage/
-```
+
